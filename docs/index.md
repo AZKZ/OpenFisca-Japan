@@ -17,4 +17,6 @@
 - [デプロイ方法](./dev_note#デプロイ方法)
 - [TroubleShooting](./dev_note#TroubleShooting)
 
+### [チュートリアル](./tutorial)
+
 ### [変更履歴 (Change log)](./change_log)
